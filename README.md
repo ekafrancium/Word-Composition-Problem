@@ -1,3 +1,5 @@
+#Word-Composition-Problem
+
 ## Trie-based Compounded Word Finder
 
 ## Overview
@@ -25,4 +27,4 @@ The program prints the longest and second-longest compounded words found in the 
 - `Longest_compound_words.py`: Main Python script.
 - `Input_01.txt`, `Input_02.txt`: Sample input files containing lists of words.
 
-Feel free to customize the input files or integrate the script into your project. For any issues or improvements, please open an [issue](link-to-issues) or submit a [pull request](link-to-pull-requests).
+Feel free to customize the input files or integrate the script into your project. For any issues or improvements, please open an [issue](https://github.com/ekafrancium/Word-Composition-Problem/issues) or submit a [pull request](https://github.com/ekafrancium/Word-Composition-Problem/pulls).
